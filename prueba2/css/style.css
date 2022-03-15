@@ -1,0 +1,42 @@
+body{
+	
+}
+header{
+	background-color: #000;
+    background-color: transparent;
+    padding: 10px 0px;
+    position: absolute;
+    width: 100%;
+}
+
+#hero{
+	text-align: center;
+	background-image: url("../img/bg-sliders.jpg");
+	background-size: cover;
+	background-position: center;
+	color:white;
+}
+		
+.section{ 
+padding: 80px;
+}
+.section-hero{ 
+padding: 160px;
+}
+
+footer{
+	background-color: #323232 
+	
+}
+
+#footer p { 
+	text-align: center;
+	color:#FFFF;
+	
+}
+
+#product img{
+	height: 300px;
+	text-align: center;
+	
+}
